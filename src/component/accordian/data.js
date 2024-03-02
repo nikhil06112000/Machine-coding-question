@@ -1,4 +1,4 @@
-const data = [
+const data1 = [
     {
         id:"1",
       title: 'Section 1',
