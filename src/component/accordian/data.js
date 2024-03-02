@@ -15,7 +15,7 @@ const data1 = [
       quaerat iure quos dolorum accusantium ducimus in illum vero commodi
       pariatur? Impedit autem esse nostrum quasi, fugiat a aut error cumque
       quidem maiores doloremque est numquam praesentium eos voluptatem amet!
-      Repudiandae, mollitia id reprehenderit a ab odit!`
+      Repudiandae, mollitia id reprehenderit a ab nikhil`
     },
     {
         id:"3",
